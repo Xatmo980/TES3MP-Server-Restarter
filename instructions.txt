@@ -1,0 +1,4 @@
+1. Add both Tes3MPserverWatcher.exe and WebHookUrl.ini to the same folder as your tes3mp-server.exe
+2. replace tes3mp-server-autorestart.bat with the one provided here
+3. Edit WebHookUrl.ini with your discord webhook url and edit Server startup and restart messages
+4. this only works on windows machines
